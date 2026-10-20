@@ -1,6 +1,6 @@
 # Cloud Servers Management
 
-Manage multiple VPS servers directly from your Android device using Termux, SSH, and tmux.
+Manage multiple VPS servers directly
 
 ## Features
 
