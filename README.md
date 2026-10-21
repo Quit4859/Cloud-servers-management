@@ -2,7 +2,7 @@
 
 Manage multiple VPS servers directly
 
-src/file_000000006ba082118bd1f6b42b97aa06.png
+![CLI to SSH to Multiple Servers](src/file_000000006ba082118bd1f6b42b97aa06.png)
 
 ## Features
 
