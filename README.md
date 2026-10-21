@@ -2,7 +2,33 @@
 
 Manage multiple VPS servers directly
 
-![CLI to SSH to Multiple Servers](src/file_000000006ba082118bd1f6b42b97aa06.png)
+
+<div align="center">
+
+# Architecture Overview
+
+**CLI → SSH → Multiple Servers**
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="src/file_0000000057e08211ba68621ed9ba1b0a.png"
+        alt="Conceptual architecture showing CLI connecting through SSH to multiple servers"
+        width="900"
+      />
+    </td>
+  </tr>
+</table>
+
+<p>
+  <sub>Secure remote server management through a single CLI interface.</sub>
+</p>
+
+</div>
+
+---
+
 
 ## Features
 
