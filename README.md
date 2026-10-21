@@ -2,6 +2,8 @@
 
 Manage multiple VPS servers directly
 
+src/file_000000006ba082118bd1f6b42b97aa06.png
+
 ## Features
 
 - SSH key authentication
